@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkki_crc_allcells=self.webpackChunkki_crc_allcells||[]).push([[905],{905:function(c,e,n){n.r(e),n.d(e,{default:function(){return a}});var u=n(671),l=n(144),r=n(136),t=n(388),i=n(709),a=(n(791),n(164),function(c){(0,r.Z)(n,c);var e=(0,t.Z)(n);function n(){return(0,u.Z)(this,n),e.apply(this,arguments)}return(0,l.Z)(n,[{key:"decodeBlock",value:function(c){return c}}]),n}(i.B))}}]);
+//# sourceMappingURL=905.7b74b216.chunk.js.map
